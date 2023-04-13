@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+body{
+	font-family: 'Dongle', sans-serif;
+	background: url("../../res/images/moon.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	color: yellow;
+}
+.header{
+	display: flex;
+	justify-content: center;
+}
+.ulHead{
+	display: flex;
+	margin-top: 0;
+	margin-right: 20px;
+	
+}
+
+.ulHead li{
+	list-style: none;
+	display: flex;
+	margin-right: 15px;
+}
+
+.ulHead li a{
+	text-decoration: none;
+}
+
+.menuAdd{
+	display: flex;
+}
+
+.menuAdd div{
+	margin-right: 15px;}

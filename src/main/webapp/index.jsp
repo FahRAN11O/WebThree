@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Accueil</title>
+<link rel="stylesheet" type="text/css" href="./css/large/style-large.css">
 </head>
 <body>
-
+	<div class="header">
+		<%@ include file="headAccueil.jsp" %>
+	</div>
 </body>
 </html>

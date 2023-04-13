@@ -1,30 +1,45 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="ISO-8859-1">
-<title>Insert title here</title>
-</head>
-<body>
+
 	<div class="logoHeader">
 		<img alt="Logo" src="">
 	</div>
-	<div>
-		<ul>
-			<li>Accueil</li>
-			<li>Options</li>
-			<li>Apropos</li>
-			<li>Acceder</li>
+	<div class="menuHead">
+		<ul class="ulHead">
+			<li>  <a>Accueil</a></li>
+			<li><a>Options</a></li>
+			<li><a>Apropos</a></li>
+			<li><a>Acceder</a></li>
 		</ul>
 	</div>
-	<div>
+	<div class="menuAdd">
 		<div>
-			<img alt="search icon" src="">
+			<img alt="search icon" src=""> <span>Recherche</span>
 		</div>
 		<div>
-			<img alt="contact icon" src="">
+			<img alt="contact icon" src=""> <span>Contact</span>
 		</div>
 	</div>
-</body>
-</html>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
