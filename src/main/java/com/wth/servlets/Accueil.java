@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 
 public class Accueil extends HttpServlet {
 	
-	private final String URL_ACCUEIL = "/index.html";
+	private final String URL_ACCUEIL = "/index.jsp";
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		// TODO Auto-generated method stub
