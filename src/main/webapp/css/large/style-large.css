@@ -26,6 +26,7 @@ body{
 
 .ulHead li a{
 	text-decoration: none;
+	color: white;
 }
 
 .menuAdd{
@@ -33,10 +34,17 @@ body{
 }
 
 .menuAdd div{
-	margin-right: 15px;}
+	margin-right: 15px;
+}
 
  .icontact{
- height: 15px;
+	height: 15px;
+	width: 10px;
+	
+} 
+
+.isearch{
+	height: 15px;
 	width: 10px;
 	
 } 
