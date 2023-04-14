@@ -14,10 +14,10 @@
 	</div>
 	<div class="menuAdd">
 		<div>
-			<img alt="search icon" src=""> <span>Recherche</span>
+			<img class="isearch" alt="search icon" src="./res/images/search.png"> <span>Recherche</span>
 		</div>
 		<div>
-			<img alt="contact icon" src=""> <span>Contact</span>
+			<img class="icontact" alt="contact icon" src="./res/images/contact.png"> <span>Contact</span>
 		</div>
 	</div>
 
