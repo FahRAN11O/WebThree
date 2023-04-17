@@ -11,5 +11,8 @@
 	<div class="header">
 		<%@ include file="headAccueil.jsp" %>
 	</div>
+	<div>
+		<p class="text-title">WEB THREE</p>
+	</div>
 </body>
 </html>

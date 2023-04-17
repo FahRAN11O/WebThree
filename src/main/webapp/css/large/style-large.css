@@ -48,3 +48,12 @@ body{
 	width: 10px;
 	
 } 
+
+/*Body Index*/
+.text-title{
+	font-family: 'Dongle', sans-serif;
+	/*  font-family: 'Josefin Sans', sans-serif;*/
+	font-weight: bold;
+}
+
+
