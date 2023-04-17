@@ -39,21 +39,26 @@ body{
 
  .icontact{
 	height: 15px;
-	width: 10px;
-	
+	width: 10px;	
 } 
 
 .isearch{
 	height: 15px;
 	width: 10px;
-	
 } 
 
 /*Body Index*/
+
+.div-title{
+	display: flex;
+	justify-content: center;
+}
+
 .text-title{
 	font-family: 'Dongle', sans-serif;
 	/*  font-family: 'Josefin Sans', sans-serif;*/
 	font-weight: bold;
 }
+
 
 
